@@ -1,0 +1,8 @@
+dist/
+.cache/
+*.user
+*.suo
+.vs/
+__pycache__/
+.DS_Store
+Thumbs.db

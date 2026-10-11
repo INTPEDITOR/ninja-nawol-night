@@ -1,0 +1,915 @@
+{
+  "stages": 150,
+  "uniqueTargets": 150,
+  "physics": "Matter.js",
+  "solutions": [
+    {
+      "level": 1,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 2,
+      "delay": 30,
+      "angle": 80,
+      "distance": 300
+    },
+    {
+      "level": 3,
+      "delay": 30,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 4,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 5,
+      "delay": 30,
+      "angle": 0,
+      "distance": 300
+    },
+    {
+      "level": 6,
+      "delay": 30,
+      "angle": 0,
+      "distance": 300
+    },
+    {
+      "level": 7,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 8,
+      "delay": 60,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 9,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 10,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 11,
+      "delay": 30,
+      "angle": 0,
+      "distance": 300
+    },
+    {
+      "level": 12,
+      "delay": 30,
+      "angle": 40,
+      "distance": 180
+    },
+    {
+      "level": 13,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 14,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 15,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 16,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 17,
+      "delay": 60,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 18,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 19,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 20,
+      "delay": 30,
+      "angle": 80,
+      "distance": 260
+    },
+    {
+      "level": 21,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 22,
+      "delay": 30,
+      "angle": 40,
+      "distance": 180
+    },
+    {
+      "level": 23,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 24,
+      "delay": 30,
+      "angle": 120,
+      "distance": 220
+    },
+    {
+      "level": 25,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 26,
+      "delay": 60,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 27,
+      "delay": 30,
+      "angle": 0,
+      "distance": 300
+    },
+    {
+      "level": 28,
+      "delay": 30,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 29,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 30,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 31,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 32,
+      "delay": 30,
+      "angle": 40,
+      "distance": 180
+    },
+    {
+      "level": 33,
+      "delay": 30,
+      "angle": 80,
+      "distance": 260
+    },
+    {
+      "level": 34,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 35,
+      "delay": 60,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 36,
+      "delay": 30,
+      "angle": 0,
+      "distance": 220
+    },
+    {
+      "level": 37,
+      "delay": 60,
+      "angle": 40,
+      "distance": 220
+    },
+    {
+      "level": 38,
+      "delay": 60,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 39,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 40,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 41,
+      "delay": 60,
+      "angle": 120,
+      "distance": 260
+    },
+    {
+      "level": 42,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 43,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 44,
+      "delay": 30,
+      "angle": 0,
+      "distance": 300
+    },
+    {
+      "level": 45,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 46,
+      "delay": 30,
+      "angle": 0,
+      "distance": 340
+    },
+    {
+      "level": 47,
+      "delay": 30,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 48,
+      "delay": 30,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 49,
+      "delay": 30,
+      "angle": 0,
+      "distance": 220
+    },
+    {
+      "level": 50,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 51,
+      "delay": 60,
+      "angle": 40,
+      "distance": 220
+    },
+    {
+      "level": 52,
+      "delay": 30,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 53,
+      "delay": 30,
+      "angle": 40,
+      "distance": 180
+    },
+    {
+      "level": 54,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 55,
+      "delay": 30,
+      "angle": 100,
+      "distance": 220
+    },
+    {
+      "level": 56,
+      "delay": 60,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 57,
+      "delay": 30,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 58,
+      "delay": 30,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 59,
+      "delay": 60,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 60,
+      "delay": 30,
+      "angle": 0,
+      "distance": 300
+    },
+    {
+      "level": 61,
+      "delay": 30,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 62,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 63,
+      "delay": 30,
+      "angle": 60,
+      "distance": 220
+    },
+    {
+      "level": 64,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 65,
+      "delay": 60,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 66,
+      "delay": 30,
+      "angle": 40,
+      "distance": 140
+    },
+    {
+      "level": 67,
+      "delay": 30,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 68,
+      "delay": 60,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 69,
+      "delay": 30,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 70,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 71,
+      "delay": 60,
+      "angle": 80,
+      "distance": 180
+    },
+    {
+      "level": 72,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 73,
+      "delay": 30,
+      "angle": 0,
+      "distance": 300
+    },
+    {
+      "level": 74,
+      "delay": 60,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 75,
+      "delay": 30,
+      "angle": 40,
+      "distance": 140
+    },
+    {
+      "level": 76,
+      "delay": 30,
+      "angle": 120,
+      "distance": 220
+    },
+    {
+      "level": 77,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 78,
+      "delay": 30,
+      "angle": 0,
+      "distance": 300
+    },
+    {
+      "level": 79,
+      "delay": 30,
+      "angle": 80,
+      "distance": 300
+    },
+    {
+      "level": 80,
+      "delay": 30,
+      "angle": 40,
+      "distance": 180
+    },
+    {
+      "level": 81,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 82,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 83,
+      "delay": 30,
+      "angle": 0,
+      "distance": 340
+    },
+    {
+      "level": 84,
+      "delay": 30,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 85,
+      "delay": 60,
+      "angle": 80,
+      "distance": 180
+    },
+    {
+      "level": 86,
+      "delay": 60,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 87,
+      "delay": 30,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 88,
+      "delay": 30,
+      "angle": 80,
+      "distance": 260
+    },
+    {
+      "level": 89,
+      "delay": 30,
+      "angle": 0,
+      "distance": 300
+    },
+    {
+      "level": 90,
+      "delay": 30,
+      "angle": 40,
+      "distance": 180
+    },
+    {
+      "level": 91,
+      "delay": 30,
+      "angle": 80,
+      "distance": 260
+    },
+    {
+      "level": 92,
+      "delay": 30,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 93,
+      "delay": 20,
+      "angle": 80,
+      "distance": 200
+    },
+    {
+      "level": 94,
+      "delay": 30,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 95,
+      "delay": 60,
+      "angle": 80,
+      "distance": 180
+    },
+    {
+      "level": 96,
+      "delay": 60,
+      "angle": 80,
+      "distance": 180
+    },
+    {
+      "level": 97,
+      "delay": 60,
+      "angle": 120,
+      "distance": 300
+    },
+    {
+      "level": 98,
+      "delay": 30,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 99,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 100,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 101,
+      "delay": 20,
+      "angle": 20,
+      "distance": 240
+    },
+    {
+      "level": 102,
+      "delay": 60,
+      "angle": 120,
+      "distance": 180
+    },
+    {
+      "level": 103,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 104,
+      "delay": 30,
+      "angle": 0,
+      "distance": 300
+    },
+    {
+      "level": 105,
+      "delay": 60,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 106,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 107,
+      "delay": 30,
+      "angle": 80,
+      "distance": 260
+    },
+    {
+      "level": 108,
+      "delay": 60,
+      "angle": 120,
+      "distance": 220
+    },
+    {
+      "level": 109,
+      "delay": 30,
+      "angle": 40,
+      "distance": 180
+    },
+    {
+      "level": 110,
+      "delay": 60,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 111,
+      "delay": 60,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 112,
+      "delay": 30,
+      "angle": -40,
+      "distance": 340
+    },
+    {
+      "level": 113,
+      "delay": 30,
+      "angle": 40,
+      "distance": 180
+    },
+    {
+      "level": 114,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 115,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 116,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 117,
+      "delay": 30,
+      "angle": 80,
+      "distance": 220
+    },
+    {
+      "level": 118,
+      "delay": 30,
+      "angle": 80,
+      "distance": 220
+    },
+    {
+      "level": 119,
+      "delay": 60,
+      "angle": 40,
+      "distance": 340
+    },
+    {
+      "level": 120,
+      "delay": 60,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 121,
+      "delay": 30,
+      "angle": 0,
+      "distance": 220
+    },
+    {
+      "level": 122,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 123,
+      "delay": 60,
+      "angle": 40,
+      "distance": 220
+    },
+    {
+      "level": 124,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 125,
+      "delay": 30,
+      "angle": 0,
+      "distance": 300
+    },
+    {
+      "level": 126,
+      "delay": 30,
+      "angle": 80,
+      "distance": 180
+    },
+    {
+      "level": 127,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 128,
+      "delay": 20,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 129,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 130,
+      "delay": 20,
+      "angle": -20,
+      "distance": 260
+    },
+    {
+      "level": 131,
+      "delay": 30,
+      "angle": 80,
+      "distance": 220
+    },
+    {
+      "level": 132,
+      "delay": 20,
+      "angle": 0,
+      "distance": 340
+    },
+    {
+      "level": 133,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 134,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 135,
+      "delay": 60,
+      "angle": 40,
+      "distance": 220
+    },
+    {
+      "level": 136,
+      "delay": 30,
+      "angle": 0,
+      "distance": 220
+    },
+    {
+      "level": 137,
+      "delay": 30,
+      "angle": 0,
+      "distance": 300
+    },
+    {
+      "level": 138,
+      "delay": 40,
+      "angle": 0,
+      "distance": 280
+    },
+    {
+      "level": 139,
+      "delay": 30,
+      "angle": 40,
+      "distance": 180
+    },
+    {
+      "level": 140,
+      "delay": 60,
+      "angle": 80,
+      "distance": 180
+    },
+    {
+      "level": 141,
+      "delay": 60,
+      "angle": 40,
+      "distance": 220
+    },
+    {
+      "level": 142,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 143,
+      "delay": 30,
+      "angle": 40,
+      "distance": 300
+    },
+    {
+      "level": 144,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 145,
+      "delay": 30,
+      "angle": 80,
+      "distance": 260
+    },
+    {
+      "level": 146,
+      "delay": 60,
+      "angle": 80,
+      "distance": 180
+    },
+    {
+      "level": 147,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 148,
+      "delay": 30,
+      "angle": 40,
+      "distance": 220
+    },
+    {
+      "level": 149,
+      "delay": 60,
+      "angle": 80,
+      "distance": 180
+    },
+    {
+      "level": 150,
+      "delay": 30,
+      "angle": 80,
+      "distance": 220
+    }
+  ],
+  "latestChecks": [
+    "150개 스테이지 수정된 판정으로 성공 경로 확인",
+    "뾰족한 두 끝 충돌 직전 속도·얕은 가장자리 진입 판정",
+    "둥근 부분 반발·투명 영역 성공 불가",
+    "낙하 실패 후에도 물리 엔진과 이동 표적 계속 동작",
+    "화면 클릭·우클릭 재시작 없음, R키만 재시도",
+    "궤적·브로치 주변 점선 원 제거"
+  ]
+}
