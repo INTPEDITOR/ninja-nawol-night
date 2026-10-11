@@ -8,7 +8,7 @@
 
 ## Windows 앱 다운로드
 
-[최신 릴리스](https://github.com/INTPEDITOR/ninja-nawol-night/releases/latest)에서 `닌자나월-Windows.zip`을 받은 뒤 **압축을 모두 풀고 `닌자나월.exe`를 실행**하세요. EXE, DLL, game 폴더를 함께 보관해야 합니다. Windows 64비트와 Microsoft Edge WebView2 Runtime이 필요합니다.
+[최신 릴리스](https://github.com/INTPEDITOR/ninja-nawol-night/releases/latest)에서 `Ninja-Nawol-Night-Windows.zip`을 받은 뒤 **압축을 모두 풀고 `닌자나월.exe`를 실행**하세요. EXE, DLL, game 폴더를 함께 보관해야 합니다. Windows 64비트와 Microsoft Edge WebView2 Runtime이 필요합니다.
 
 ## 조작
 
