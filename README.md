@@ -1,6 +1,8 @@
 # 수련해라! 닌자 나월!
 
-초승달 브로치를 펀치로 날려 다양한 사물에 꽂는 2D 사이드뷰 물리 퍼즐 팬게임입니다. 서로 다른 사물 이미지로 구성된 150개 스테이지를 플레이할 수 있습니다.
+《수련해라! 닌자 나월!》은 떨어지는 초승달 브로치를 펀치로 날려 기상천외한 사물에 꽂는 물리 퍼즐 팬게임입니다. 타이밍과 회전을 맞춰 150개의 스테이지에 도전하고, 클리어할 때마다 새로운 사물을 공개해 보세요!
+
+[웹에서 바로 플레이](https://intpeditor.github.io/ninja-nawol-night/) · [Windows 앱 다운로드](https://github.com/INTPEDITOR/ninja-nawol-night/releases/latest)
 
 ![게임 타이틀](docs/title.png)
 
