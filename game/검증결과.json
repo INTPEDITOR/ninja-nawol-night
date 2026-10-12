@@ -311,7 +311,7 @@
     },
     {
       "level": 52,
-      "delay": 30,
+      "delay": 60,
       "angle": 40,
       "distance": 260
     },
@@ -325,13 +325,13 @@
       "level": 54,
       "delay": 30,
       "angle": 0,
-      "distance": 260
+      "distance": 340
     },
     {
       "level": 55,
-      "delay": 30,
-      "angle": 100,
-      "distance": 220
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
     },
     {
       "level": 56,
@@ -342,14 +342,14 @@
     {
       "level": 57,
       "delay": 30,
-      "angle": 40,
+      "angle": 80,
       "distance": 300
     },
     {
       "level": 58,
       "delay": 30,
-      "angle": 40,
-      "distance": 260
+      "angle": 0,
+      "distance": 220
     },
     {
       "level": 59,
@@ -361,25 +361,25 @@
       "level": 60,
       "delay": 30,
       "angle": 0,
-      "distance": 300
+      "distance": 340
     },
     {
       "level": 61,
-      "delay": 30,
-      "angle": 40,
-      "distance": 260
-    },
-    {
-      "level": 62,
       "delay": 30,
       "angle": 0,
       "distance": 260
     },
     {
-      "level": 63,
+      "level": 62,
       "delay": 30,
-      "angle": 60,
-      "distance": 220
+      "angle": 40,
+      "distance": 180
+    },
+    {
+      "level": 63,
+      "delay": 60,
+      "angle": 80,
+      "distance": 180
     },
     {
       "level": 64,
@@ -396,13 +396,13 @@
     {
       "level": 66,
       "delay": 30,
-      "angle": 40,
-      "distance": 140
+      "angle": 0,
+      "distance": 260
     },
     {
       "level": 67,
       "delay": 30,
-      "angle": 40,
+      "angle": 0,
       "distance": 260
     },
     {
@@ -415,13 +415,13 @@
       "level": 69,
       "delay": 30,
       "angle": 40,
-      "distance": 260
+      "distance": 340
     },
     {
       "level": 70,
       "delay": 30,
-      "angle": 0,
-      "distance": 260
+      "angle": 20,
+      "distance": 340
     },
     {
       "level": 71,
@@ -432,14 +432,14 @@
     {
       "level": 72,
       "delay": 30,
-      "angle": 0,
-      "distance": 260
+      "angle": -40,
+      "distance": 340
     },
     {
       "level": 73,
       "delay": 30,
-      "angle": 0,
-      "distance": 300
+      "angle": 100,
+      "distance": 260
     },
     {
       "level": 74,
@@ -449,9 +449,9 @@
     },
     {
       "level": 75,
-      "delay": 30,
+      "delay": 60,
       "angle": 40,
-      "distance": 140
+      "distance": 260
     },
     {
       "level": 76,
@@ -522,13 +522,13 @@
     {
       "level": 87,
       "delay": 30,
-      "angle": 40,
-      "distance": 260
+      "angle": 120,
+      "distance": 220
     },
     {
       "level": 88,
-      "delay": 30,
-      "angle": 80,
+      "delay": 60,
+      "angle": 40,
       "distance": 260
     },
     {
@@ -540,26 +540,20 @@
     {
       "level": 90,
       "delay": 30,
-      "angle": 40,
-      "distance": 180
+      "angle": -40,
+      "distance": 340
     },
     {
       "level": 91,
       "delay": 30,
-      "angle": 80,
-      "distance": 260
+      "angle": 60,
+      "distance": 300
     },
     {
       "level": 92,
       "delay": 30,
       "angle": 40,
       "distance": 260
-    },
-    {
-      "level": 93,
-      "delay": 20,
-      "angle": 80,
-      "distance": 200
     },
     {
       "level": 94,
@@ -604,12 +598,6 @@
       "distance": 260
     },
     {
-      "level": 101,
-      "delay": 20,
-      "angle": 20,
-      "distance": 240
-    },
-    {
       "level": 102,
       "delay": 60,
       "angle": 120,
@@ -625,7 +613,7 @@
       "level": 104,
       "delay": 30,
       "angle": 0,
-      "distance": 300
+      "distance": 260
     },
     {
       "level": 105,
@@ -635,15 +623,15 @@
     },
     {
       "level": 106,
-      "delay": 30,
-      "angle": 0,
+      "delay": 60,
+      "angle": 40,
       "distance": 260
     },
     {
       "level": 107,
       "delay": 30,
-      "angle": 80,
-      "distance": 260
+      "angle": 0,
+      "distance": 340
     },
     {
       "level": 108,
@@ -654,8 +642,8 @@
     {
       "level": 109,
       "delay": 30,
-      "angle": 40,
-      "distance": 180
+      "angle": 0,
+      "distance": 260
     },
     {
       "level": 110,
@@ -671,20 +659,20 @@
     },
     {
       "level": 112,
-      "delay": 30,
-      "angle": -40,
+      "delay": 60,
+      "angle": 20,
       "distance": 340
     },
     {
       "level": 113,
       "delay": 30,
-      "angle": 40,
-      "distance": 180
+      "angle": 80,
+      "distance": 300
     },
     {
       "level": 114,
-      "delay": 30,
-      "angle": 0,
+      "delay": 60,
+      "angle": 40,
       "distance": 260
     },
     {
@@ -702,20 +690,20 @@
     {
       "level": 117,
       "delay": 30,
-      "angle": 80,
-      "distance": 220
+      "angle": 20,
+      "distance": 340
     },
     {
       "level": 118,
       "delay": 30,
-      "angle": 80,
+      "angle": 120,
       "distance": 220
     },
     {
       "level": 119,
       "delay": 60,
-      "angle": 40,
-      "distance": 340
+      "angle": 80,
+      "distance": 180
     },
     {
       "level": 120,
@@ -725,9 +713,9 @@
     },
     {
       "level": 121,
-      "delay": 30,
-      "angle": 0,
-      "distance": 220
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
     },
     {
       "level": 122,
@@ -750,8 +738,8 @@
     {
       "level": 125,
       "delay": 30,
-      "angle": 0,
-      "distance": 300
+      "angle": 40,
+      "distance": 180
     },
     {
       "level": 126,
@@ -766,21 +754,9 @@
       "distance": 260
     },
     {
-      "level": 128,
-      "delay": 20,
-      "angle": 40,
-      "distance": 260
-    },
-    {
       "level": 129,
       "delay": 60,
       "angle": 40,
-      "distance": 260
-    },
-    {
-      "level": 130,
-      "delay": 20,
-      "angle": -20,
       "distance": 260
     },
     {
@@ -788,12 +764,6 @@
       "delay": 30,
       "angle": 80,
       "distance": 220
-    },
-    {
-      "level": 132,
-      "delay": 20,
-      "angle": 0,
-      "distance": 340
     },
     {
       "level": 133,
@@ -817,7 +787,7 @@
       "level": 136,
       "delay": 30,
       "angle": 0,
-      "distance": 220
+      "distance": 260
     },
     {
       "level": 137,
@@ -826,16 +796,10 @@
       "distance": 300
     },
     {
-      "level": 138,
-      "delay": 40,
-      "angle": 0,
-      "distance": 280
-    },
-    {
       "level": 139,
-      "delay": 30,
+      "delay": 60,
       "angle": 40,
-      "distance": 180
+      "distance": 260
     },
     {
       "level": 140,
@@ -857,9 +821,9 @@
     },
     {
       "level": 143,
-      "delay": 30,
-      "angle": 40,
-      "distance": 300
+      "delay": 60,
+      "angle": 80,
+      "distance": 180
     },
     {
       "level": 144,
@@ -902,14 +866,58 @@
       "delay": 30,
       "angle": 80,
       "distance": 220
+    },
+    {
+      "level": 93,
+      "delay": 30,
+      "angle": 40,
+      "distance": 340
+    },
+    {
+      "level": 101,
+      "delay": 30,
+      "angle": 0,
+      "distance": 260
+    },
+    {
+      "level": 128,
+      "delay": 30,
+      "angle": 20,
+      "distance": 220
+    },
+    {
+      "level": 130,
+      "delay": 30,
+      "angle": 80,
+      "distance": 260
+    },
+    {
+      "level": 132,
+      "delay": 60,
+      "angle": 40,
+      "distance": 260
+    },
+    {
+      "level": 138,
+      "delay": 40,
+      "angle": 0,
+      "distance": 280
     }
   ],
   "latestChecks": [
+    "150개 스테이지마다 표적 충돌체 하나만 생성, 잔여 작은 장애물 제거",
     "150개 스테이지 수정된 판정으로 성공 경로 확인",
     "뾰족한 두 끝 충돌 직전 속도·얕은 가장자리 진입 판정",
     "둥근 부분 반발·투명 영역 성공 불가",
     "낙하 실패 후에도 물리 엔진과 이동 표적 계속 동작",
     "화면 클릭·우클릭 재시작 없음, R키만 재시도",
     "궤적·브로치 주변 점선 원 제거"
-  ]
+  ],
+  "singleTargetFix": {
+    "affectedStages": 125,
+    "removedExtraObjects": 225,
+    "targetsPerStage": 1,
+    "originalTargetsAndDifficultyPreserved": true,
+    "all150StagesSolved": true
+  }
 }
